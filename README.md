@@ -1,5 +1,7 @@
 ## Qijia LIAO's Personal Blog
 
+I am an MBA student from University of Macau. Prior to that I have 3-year full time working experience in Construction Industry and Manufacturing Industry, and my role was expatriate employee for Chinese enterprises in Georgia and Indonesia during.  
+
 You can use the [editor on GitHub](https://github.com/Qijialiao/qijia_liao/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
