@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Recommended Articles</title>
+</head>
+     <body>
+          
+          <div id="menubar">
+
+<table width="100%">
+<tr>
+<!--<td><a href="overview.htm">START HERE</a></td>-->
+<td><a href="index.html">HOME</a></td>
+     <td><a href="index.html">CV</a></td>
+     <td><a href="index.html">Publications</a></td>
+     <td><a href="index.html">Working Life</a></td>
+     <td><a href="https://liaoqj.github.io/articles.html">Recommended Articles</a></td>
+     <td><a href="index.html">Blogs</a></td>
+     <td><a href="index.html">Photo Gallery</a></td>
+</tr>
+</table>
+          
+          <h1 id="siteName">CV</h1>
+ 
+ <a href="https://liaoqj.github.io/Academic_Resume.pdf">Academic Resume in English
+
+</html>
+
